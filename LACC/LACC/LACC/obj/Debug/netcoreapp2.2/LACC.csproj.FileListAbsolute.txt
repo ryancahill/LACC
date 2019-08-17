@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.RazorAssemblyInfo.cache
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.RazorAssemblyInfo.cs
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\bin\Debug\netcoreapp2.2\LACC.deps.json
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\bin\Debug\netcoreapp2.2\LACC.runtimeconfig.json
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\bin\Debug\netcoreapp2.2\LACC.runtimeconfig.dev.json
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\bin\Debug\netcoreapp2.2\LACC.dll
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\bin\Debug\netcoreapp2.2\LACC.pdb
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.RazorTargetAssemblyInfo.cache
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.dll
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.pdb
+C:\Users\Ryan\Documents\Albearware\LACC\LACC\LACC\obj\Debug\netcoreapp2.2\LACC.csprojAssemblyReference.cache
